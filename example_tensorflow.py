@@ -51,7 +51,7 @@ print_tf(weight)
 weight_out = sess.run(weight)
 print_tf(weight_out)
 
-#comente
+#Rodando o weight que é uma variável com valor randômico
 weight_out = sess.run(weight)
 print_tf(weight_out)
 print ("INITIALIZING ALL VARIALBES")
