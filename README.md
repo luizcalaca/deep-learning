@@ -1,3 +1,3 @@
-# DeepLearning - UFG - Professor Dr. Anderson Soares
+# DeepLearning
 
-Códigos da matéria redes neurais profundas (Deep Learning) do curso do Mestrado na Universade Federal de Goiás.
+Códigos variados no contexto da Inteligência Artificial (Deep Learning).
